@@ -1,18 +1,136 @@
-### Hi there 👋
-
-# 💫 About Me: 
-💻 I'm a Frontend Developer and i work with ReactJs/NextJs<br>🚀 Through constant practice & learning, I alway want produce aesthetic software to an extremely high standard.<br>✅ My Goals: Learn and grow every day
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//sai.fujiwarano.376) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=congdanhk07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=congdanhk07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=congdanhk07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg"/>
+<h1 align="center">Hi 👋, I'm Tran Cong Danh (Dan) <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
+<h3 align="center">A passionate Software Developer from Vietnam. Im also have beside-interest on AIOT</h3>
+<img align="right" alt="coding" width="400" src="https://pics.craiyon.com/2023-08-06/11e7b11f5c0d4cfc8877f1f4cc8b387b.webp">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentheloc-310101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentheloc-310101" /> </p>
 
 
- -->
+
+
+- 🔭 I’m  working on **Vistor Management Embed AI solution (face detection) Native App, Cyber Security (EDR) and some e-commerce websites**
+
+- 🌱 I’m  work with **Nextjs, supabase, Pygame, TailwindCSS, Vitejs, TinyML, ExpressJs, Nodejs, Zustand, Expo Go (React Native)**
+  
+- 📫 How to reach me **nguyentheloc310101@gmail.com**
+
+- ⚡ Fun fact **Im half extrovert and half introvert :)**
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/Dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lộc (ethan) nguyễn thế" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lộc (ethan) nguyễn thế" height="30" width="40" /></a>
+<a href="https://instagram.com/ntl_3101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntl_3101" height="30" width="40" /></a>
+</p>
+</br>
+</br>
+</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
+
+###
+
+## 💻 My Main Skills:
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <br>TypeScript
+        </td>
+      <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <br>Python
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+            <br>C++
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+            <br>C
+        </td>
+       <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+            <br>Dart
+        </td>
+      <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+            <br>Node.js
+        </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+            <br>React
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+            <br>Next.js
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="electron" />
+            <br>Electron
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+            <br>Flutter
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="opencv" />
+            <br>Opencv
+        </td>
+      <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
+            <br>Tensorflow
+        </td>
+    </tr>
+  <tr>
+      <td align="center" width="96">
+           <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
+        </td>
+        <td align="center" width="96">
+           <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+            <br>Postgres
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" />
+            <br>Supabase
+        </td>
+     <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+            <br>Mongodb
+        </td>
+      <td align="center" width="96">
+            <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div>
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+            <br>Linux
+        </td>
+     <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="latex" />
+            <br>Latex
+        </td>
+    </tr>
+</table>
+<br><br>
+</div>
+
+## 📊 GitHub Stats
+<div align="center" >
+  <img src="https://streak-stats.demolab.com?user=nguyentheloc-Dan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentheloc-Dan&locale=en&hide_title=false&hide=html,MDX,css,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
